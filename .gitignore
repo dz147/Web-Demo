@@ -1,7 +1,7 @@
-.idea
+.idea/
 .gradle
 *.iml
-out
+out/
 gen
 /**/build
 /**/classes
