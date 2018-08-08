@@ -3,10 +3,10 @@
 # Log file
 *.log
 *.xml
-.idea
+.idea/
 .gradle
 *.iml
-out
+.out/
 gen
 # BlueJ files
 *.ctxt
